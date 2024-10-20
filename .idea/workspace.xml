@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9d924d2-a23c-411e-83f5-3d2b4dc164ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/bank-webhook/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/(dashboard)/dashboard/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/(dashboard)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/(dashboard)/p2p/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/(dashboard)/transactions/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/(dashboard)/transfer/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/api/auth/[...nextauth]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/api/user/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/lib/actions/createOnrampTransaction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/lib/actions/p2pTransfer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/app/lib/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/components/AddMoneyCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/components/AppbarClient.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/components/BalanceCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/components/OnRampTransactions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/components/SendCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/components/SidebarItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user-app/provider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/seed.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/store/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/store/src/atoms/balance.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/store/src/hooks/useBalance.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/store/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/src/Appbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/src/Center.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/src/Select.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/ui/src/TextInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-app/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-app/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-app/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-app/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/user-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/user-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/db/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/db/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ui/src/button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ui/src/button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ui/src/card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ui/src/card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo.json" beforeDir="false" afterPath="$PROJECT_DIR$/turbo.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nWvhVsh9i8YCXpQPdI1C6j59rQ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/fisdom_may2023/Desktop/projects/paytm-clone/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/bank-webhook/src" />
+      <recent name="$PROJECT_DIR$/packages/db/prisma" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9d924d2-a23c-411e-83f5-3d2b4dc164ce" name="Changes" comment="" />
+      <created>1729101766738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729101766738</updated>
+      <workItem from="1729101769620" duration="541000" />
+      <workItem from="1729338488269" duration="19912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

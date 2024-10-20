@@ -1,0 +1,42 @@
+Arguments: 
+  /opt/homebrew/Cellar/node/21.6.2/bin/node /opt/homebrew/bin/yarn add -D @types/express
+
+PATH: 
+  /Users/fisdom_may2023/.sdkman/candidates/java/current/bin:/Users/fisdom_may2023/anaconda3/bin:/opt/homebrew/bin:/Users/fisdom_may2023/.nvm/versions/node/v16.20.2/bin:/opt/homebrew/bin:/Users/fisdom_may2023/bin:/usr/local/bin:/Users/fisdom_may2023/.nvm/versions/node/v16.20.2/bin:/Users/fisdom_may2023/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/usr/local/go/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/fisdom_may2023/.cargo/bin:/Users/fisdom_may2023/Desktop/projects/paytm-clone/node_modules/.bin:/Users/fisdom_may2023/Library/Android/sdk/emulator:/Users/fisdom_may2023/Library/Android/sdk/platform-tools:/Users/fisdom_may2023/Library/Application Support/JetBrains/Toolbox/scripts
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  21.6.2
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/fisdom_may2023/Desktop/projects/paytm-clone/apps/bank-webhook/package.json: Expected double-quoted property name in JSON at position 218 (line 11 column 3)
+      at JSON.parse (<anonymous>)
+      at /opt/homebrew/lib/node_modules/yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/opt/homebrew/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /opt/homebrew/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "bank-webhook",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+      "@repo/db":"*",
+      "@types/express": "^5.0.0",
+      "esbuild": "^0.24.0",
+      "express": "^4.21.1",
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
